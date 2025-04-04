@@ -1,0 +1,10 @@
+#Конфигурация
+name = "SwayoProject"
+
+[server]
+version = "1.0.0"
+website = "http://localhost:4010/send_sms"
+
+[user]
+username = "Aaron"
+password = "Paul"
